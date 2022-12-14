@@ -1,1 +1,6 @@
-uma das minhas comidas favoritas é ,lasanha , pizza , macarronada , pão de queijo ,hambúrguer entre outros...
+lasanha 
+pizza
+macarronada
+pão de queijo
+hambúrguer 
+entre outros...
